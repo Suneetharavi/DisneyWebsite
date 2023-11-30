@@ -1,0 +1,253 @@
+ .App {
+  text-align: center;
+}
+
+.NavBarClass{
+  display:flex;
+  justify-content: space-around;
+}
+
+.mainlinksClass{
+  background-color:whitesmoke ;
+  text-decoration: none;
+  padding: 20px;
+  width: auto;
+  height: 12px; 
+  font-weight: bold;
+}
+
+.bodyTextClass{
+  background-color: blue;
+  width: 1400px;
+  height:40px;
+  align-items: center;
+  margin-left:250px ;
+  font-weight: bold;
+  color: white;
+  padding-top: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.bodyTextClass a{
+  color: rgb(241, 235, 235);
+}
+
+.cyberMondayDiv{
+
+  /* background-color: white; */
+  position: absolute;
+  /* z-index: 3; */
+  width: 30%;
+  height: auto;
+  padding-left:2em;
+  padding-right:2em;
+  margin-left: 10%;
+  margin-top: -25em;
+  image-rendering:optimizeQuality;
+
+}
+
+.salesButtonClass{
+  position: absolute;
+  /* z-index: 3; */
+  width: 30%;
+  height: auto;
+  padding-left:2em;
+  padding-right:2em;
+  margin-left: 10%;
+  margin-top: -9em;
+  image-rendering:optimizeQuality;
+}
+
+.salesbutton{
+  background-color: rgb(20, 221, 236);
+  font-weight: bold;
+  font-size: medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.secondBodyDiv{
+  position: relative;
+  height: 320px;
+  width: 90%;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(179, 215, 247);
+  margin-left: 100px;
+  padding-top: 2em;
+  padding-right: 1em;
+}
+
+.wishDiv{
+  margin-left: 1em;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(237, 243, 247);
+}
+
+.frozen10{
+ /* margin-left: 1em; */
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(242, 220, 243);
+}
+
+.TheSanta{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(237, 243, 247);
+}
+
+.EPCOTO{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(242, 220, 243);
+}
+
+.thirdBodyDiv{
+  position: relative;
+  height: 700px;
+  width: 90%;
+  bottom: 0;
+  /* display: flex; */
+  justify-content: space-around;
+  background-color: rgb(23, 6, 40);
+  margin-left: 100px;
+  margin-top: 2em;
+  padding-top: 2em;
+}
+
+.thirdBodyImagesDiv{
+  display: flex;
+  justify-content: space-around; 
+}
+
+.h2text{
+  color: aliceblue;
+  font-style: italic;
+  font-family:cursive;
+  font-weight:normal
+}
+
+.h3text{
+  color: azure;
+  font-weight:normal;
+  font-style:oblique;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.aLinkClass{
+  color: aliceblue;
+  padding-top: 5em;
+}
+
+
+.imagesDiv{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 3em;
+  position: relative;
+  border: skyblue;
+  overflow-y: scroll;
+  width: 90%;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.imgclass{
+  display: flex;
+  justify-content: space-around;
+  border-color: aliceblue;
+  /* border: 2px; */
+  /* margin-left: 15px; */
+  margin-right: 10px; 
+}
+
+.commingsoonimagesDiv{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 3em;
+  position: relative;
+  border: skyblue;
+  overflow-y: scroll;
+  width: 90%;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.commingsoonimgclass{
+  display: flex;
+  justify-content: space-around;
+  border-color: aliceblue;
+  /* border: 2px; */
+  /* margin-left: 15px; */
+  margin-right: 10px;
+  margin-top: 30px;
+}
+
+.vacationDiv{
+  margin-top: 3px;;
+  background-color: rgb(247, 245, 241);
+  width: 90%;
+  margin-left: 100px;
+  margin-right: 100px;;
+}
+
+.vacationDiv2Class{
+ display: flex;
+ justify-content: space-around;
+ width: 100%;
+ margin-left: 20px;
+}
+
+.footerClassDiv{
+ background-color: rgb(250, 255, 240);
+ margin-top: 10px;
+ width: 90%;
+ margin-left: 100px;
+}
+
+.footer-about{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-right: 50%;
+  margin-top: 10px;
+  padding-left: 250px;
+  width: 80%;
+  
+ 
+}
+
+.footer-about a{
+text-decoration: none;
+}
+
+.footer-legal{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 30%;
+  margin-top: 10px;
+  padding-left: 250px;
+  width: 80%;
+}
+.footer-legal a{
+  text-decoration: none;
+  }
+
+  #footer-copyright{
+    color: brown;
+    margin-top: 10px;
+  }
+
+
